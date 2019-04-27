@@ -1,1 +1,3 @@
-https://blog.grilly.com/* https://www.grilly.com/ 301!
+https://blog.grilly.com/*   https://www.grilly.com/ 301!
+/                           /fr/                    302     Language=fr
+/                           /en/                    302

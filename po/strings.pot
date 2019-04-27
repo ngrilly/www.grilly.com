@@ -1,0 +1,57 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-27 17:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.1\n"
+
+#: public/fr/index.html%2Bhtml.head.meta:-1--1
+msgid "width=device-width, initial-scale=1"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.head.title:6-9
+msgid "Nicolas Grilly • Stratégie digitale • Ingénierie logicielle • CTO"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.h1:19-9
+msgid "Nicolas Grilly"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.ul.li:21-13
+msgid "Expert en stratégie digitale et ingénierie logicielle"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.ul.li:22-13
+msgid "Chief Technology Officer"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.ul.li:23-13
+msgid ""
+"Fondateur de <a href=\"https://www.vocationcity.com\" target=\"_blank\">"
+"Vocation City</a> (logiciel de recrutement et gestion des candidatures)"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.ul.li:24-13
+msgid ""
+"Président de <a href=\"https://www.facebook.com/CapitaineClimat\" target=\""
+"_blank\">Capitaine Climat</a> (association de défense du climat)"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.ul.li:25-13
+msgid ""
+"Administrateur de <a href=\"http://www.trema-asso.fr\" target=\"_blank\""
+">Tremä</a> (association d'aide aux personnes)"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.ul.li:26-13
+msgid ""
+"Développeur Go, Python, JavaScript, PostgreSQL, MySQL, SQLite, numpy, Linux, "
+"Docker, Ansible"
+msgstr ""

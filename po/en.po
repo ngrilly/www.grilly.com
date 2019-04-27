@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-27 17:38+0200\n"
+"PO-Revision-Date: 2019-04-27 17:51+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: public/fr/index.html%2Bhtml.head.meta:-1--1
+msgid "width=device-width, initial-scale=1"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.head.title:6-9
+msgid "Nicolas Grilly • Stratégie digitale • Ingénierie logicielle • CTO"
+msgstr "Nicolas Grilly • Digital strategy • Software engineering • CTO"
+
+#: public/fr/index.html%2Bhtml.body.h1:19-9
+msgid "Nicolas Grilly"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.ul.li:21-13
+msgid "Expert en stratégie digitale et ingénierie logicielle"
+msgstr "Digital strategy and software engineering expert"
+
+#: public/fr/index.html%2Bhtml.body.ul.li:22-13
+msgid "Chief Technology Officer"
+msgstr "Chief Technology Officer"
+
+#: public/fr/index.html%2Bhtml.body.ul.li:23-13
+msgid ""
+"Fondateur de <a href=\"https://www.vocationcity.com\" target=\"_blank"
+"\">Vocation City</a> (logiciel de recrutement et gestion des candidatures)"
+msgstr ""
+"Founder of <a href=\"https://www.vocationcity.com\" target=\"_blank"
+"\">Vocation City</a> (recruitment and application tracking software)"
+
+#: public/fr/index.html%2Bhtml.body.ul.li:24-13
+msgid ""
+"Président de <a href=\"https://www.facebook.com/CapitaineClimat\" target="
+"\"_blank\">Capitaine Climat</a> (association de défense du climat)"
+msgstr ""
+"President of <a href=\"https://www.facebook.com/CapitaineClimat\" target="
+"\"_blank\">Captain Climate</a> (non-profit fighting climate change)"
+
+#: public/fr/index.html%2Bhtml.body.ul.li:25-13
+msgid ""
+"Administrateur de <a href=\"http://www.trema-asso.fr\" target=\"_blank"
+"\">Tremä</a> (association d'aide aux personnes)"
+msgstr ""
+"Administrator of <a href=\"http://www.trema-asso.fr\" target=\"_blank"
+"\">Tremä</a> (non-profit assisting people of Charente-Maritime)"
+
+#: public/fr/index.html%2Bhtml.body.ul.li:26-13
+msgid ""
+"Développeur Go, Python, JavaScript, PostgreSQL, MySQL, SQLite, numpy, Linux, "
+"Docker, Ansible"
+msgstr ""
+"Developer Go, Python, JavaScript, PostgreSQL, MySQL, SQLite, numpy, Linux, "
+"Docker, Ansible"
