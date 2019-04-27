@@ -62,6 +62,30 @@ body {
     text-align: center;
 }
 
+.languages {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+.languages li {
+    display: inline;
+}
+
+.languages li + li::before {
+    content: " | ";
+}
+
+.languages a {
+    text-decoration: none;    
+}
+
+.languages a:hover {
+    text-decoration: underline;
+}
+
 .share-button {
 	width: 2.5rem;
 	height: 2.5rem;
