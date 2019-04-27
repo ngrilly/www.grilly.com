@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-27 17:38+0200\n"
+"POT-Creation-Date: 2019-04-27 18:14+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 #: public/fr/index.html%2Bhtml.body.ul.li:25-13
 msgid ""
 "Administrateur de <a href=\"http://www.trema-asso.fr\" target=\"_blank\""
-">Tremä</a> (association d'aide aux personnes)"
+">Tremä</a> (association d'aide aux personnes en Charente-Maritime)"
 msgstr ""
 
 #: public/fr/index.html%2Bhtml.body.ul.li:26-13
