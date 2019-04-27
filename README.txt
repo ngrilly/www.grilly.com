@@ -7,3 +7,7 @@ Install dependencies:
 Other personal websites:
 
 - https://campoy.cat/
+
+Todo:
+
+- Language switcher
