@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-27 21:22+0200\n"
+"POT-Creation-Date: 2019-04-29 19:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,45 +20,51 @@ msgstr ""
 msgid "Nicolas Grilly • Stratégie digitale • Ingénierie logicielle • CTO"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:19-13
-msgid "EN"
+#: public/fr/index.html%2Bhtml.head.meta:-1--1
+msgid ""
+"Nicolas Grilly est consultant et CTO, expert en stratégie digitale et "
+"ingénierie logicielle, travaillant à Paris et La Rochelle."
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:20-13
-msgid "FR"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.h1:23-9
+#: public/fr/index.html%2Bhtml.body.header.div:20-13
 msgid "Nicolas Grilly"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:25-13
+#: public/fr/index.html%2Bhtml.body.header.ul.li:22-17
+msgid "EN"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.header.ul.li:23-17
+msgid "FR"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.ul.li:30-13
 msgid "Expert en stratégie digitale et ingénierie logicielle"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:26-13
+#: public/fr/index.html%2Bhtml.body.ul.li:31-13
 msgid "Chief Technology Officer"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:27-13
+#: public/fr/index.html%2Bhtml.body.ul.li:32-13
 msgid ""
 "Fondateur de <a href=\"https://www.vocationcity.com\" target=\"_blank\">"
 "Vocation City</a> (logiciel de recrutement et gestion des candidatures)"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:28-13
+#: public/fr/index.html%2Bhtml.body.ul.li:33-13
 msgid ""
 "Président de <a href=\"https://www.facebook.com/CapitaineClimat\" target=\""
 "_blank\">Capitaine Climat</a> (association de défense du climat)"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:29-13
+#: public/fr/index.html%2Bhtml.body.ul.li:34-13
 msgid ""
 "Administrateur de <a href=\"http://www.trema-asso.fr\" target=\"_blank\""
 ">Tremä</a> (association d'aide aux personnes en Charente-Maritime)"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:30-13
+#: public/fr/index.html%2Bhtml.body.ul.li:35-13
 msgid ""
 "Développeur Go, Python, JavaScript, PostgreSQL, MySQL, SQLite, numpy, Linux, "
 "Docker, Ansible"
