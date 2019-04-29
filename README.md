@@ -32,8 +32,8 @@ Update HTML pages with the new translations:
 
 # Todo
 
-- Replace email icon with email address in plain text
-- Fix missing doctype in po2html output (implementing handle_decl in https://github.com/translate/translate/blob/master/translate/storage/html.py)
-- Fix untranslated lang attribute in po2html output
-- Fix redirection from blog.grilly.com
+- Replace email icon with email address in plain text?
+- Fix po2html:
+    - Fix missing doctype in po2html output (implementing handle_decl in https://github.com/translate/translate/blob/master/translate/storage/html.py)
+    - Fix untranslated lang attribute in po2html output
 - SEO
