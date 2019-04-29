@@ -26,13 +26,14 @@ a {
     color: #fff;
 }
 
-.w-1\/4 {
-    width: 25%;
-}
-
 .my-4 {
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+.my-8 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .my-16 {
@@ -49,6 +50,14 @@ a {
     border-radius: 50%;
 }
 
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
 /* www.grilly.com */
 
 body {
@@ -57,17 +66,26 @@ body {
     line-height: 1.5;
     background: #f9f9f9;
     margin: auto;
-    padding: 2rem;
-    max-width: 50rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    width: 70rem;
+    max-width: 95%;
     text-align: center;
 }
 
+.logo {
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.photo {
+    width: 50%;
+    max-width: 10rem;
+}
+
 .languages {
-    position: absolute;
-    top: 0;
-    right: 0;
     margin: 0;
-    padding: 0.5rem;
+    margin-left: auto;
 }
 
 .languages li {
