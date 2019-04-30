@@ -2,7 +2,7 @@ My personal website.
 
 Install dependencies:
 
-    $ brew install caddy translate-toolkit
+    $ brew install caddy gettext translate-toolkit
 
 Serve locally:
 
@@ -10,14 +10,13 @@ Serve locally:
 
 # Translations
 
-Extract strings and update the .pot template:
+Extract translatable strings and update .po files:
 
     $ make
 
 Launch poedit:
 
 - Open `po/en.po`
-- Update strings with the template `po/strings.pot`
 - Translate
 - Save and quit
 
@@ -37,3 +36,4 @@ Update HTML pages with the new translations:
     - Fix missing doctype in po2html output (implementing handle_decl in https://github.com/translate/translate/blob/master/translate/storage/html.py)
     - Fix untranslated lang attribute in po2html output
 - SEO
+- Add Facebook OpenGraph / Twitter card tags
