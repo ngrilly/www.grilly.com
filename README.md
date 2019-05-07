@@ -35,5 +35,8 @@ Update HTML pages with the new translations:
 - Fix po2html:
     - Fix missing doctype in po2html output (implementing handle_decl in https://github.com/translate/translate/blob/master/translate/storage/html.py)
     - Fix untranslated lang attribute in po2html output
-- SEO
 - Add Facebook OpenGraph / Twitter card tags
+
+# Done
+
+- SEO
