@@ -6,7 +6,7 @@ Install dependencies:
 
 Serve locally:
 
-    $ caddy
+    $ caddy file-server
 
 # Translations
 
