@@ -1,7 +1,7 @@
 all: po/en.po public/en/index.html
 
 po/en.po: po/strings.pot
-	/usr/local/opt/gettext/bin/msgmerge --update --previous --backup=off $@ $<
+	msgmerge --update --previous --backup=off $@ $<
 
 po/strings.pot: public/fr/index.html
 	html2po --pot --input=$< --output=$@
