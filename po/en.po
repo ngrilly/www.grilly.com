@@ -2,32 +2,36 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-07 19:04+0200\n"
-"PO-Revision-Date: 2019-05-07 19:06+0200\n"
+"POT-Creation-Date: 2022-11-29 18:03+0200\n"
+"PO-Revision-Date: 2022-11-29 18:58+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
 
-#: public/fr/index.html%2Bhtml.head.meta:-1--1
-msgid "width=device-width, initial-scale=1"
+#: public/fr/index.html%2Bhtml[lang]:2-1
+msgid "fr"
 msgstr ""
 
 #: public/fr/index.html%2Bhtml.head.title:6-9
-msgid "Nicolas Grilly • Stratégie digitale • Ingénierie logicielle • CTO"
-msgstr "Nicolas Grilly • Digital strategy • Software architect • CTO"
-
-#: public/fr/index.html%2Bhtml.head.meta:-1--1
 msgid ""
-"Nicolas Grilly est consultant et CTO, expert en stratégie digitale et "
-"ingénierie logicielle, travaillant à Paris et La Rochelle."
+"Nicolas Grilly • Dirigeant et expert en digitalisation et ingénierie "
+"logicielle"
 msgstr ""
-"Nicolas Grilly is a consultant and CTO, expert in digital strategy and "
-"software engineering, working in Paris and La Rochelle."
+"Nicolas Grilly • Executive and expert in digitalization and software "
+"engineering"
+
+#: public/fr/index.html%2Bhtml.head.meta[content]:7-9
+msgid ""
+"Nicolas Grilly est VP Innovation à Husqvarna Group, et précédemment Head of "
+"Digitalizaton à Northvolt Systems."
+msgstr ""
+"Nicolas Grilly is VP Innovation at Husqvarna Group, and previously Head of "
+"Digitalizaton at Northvolt Systems."
 
 #: public/fr/index.html%2Bhtml.body.header.div:23-13
 msgid "Nicolas Grilly"
@@ -42,45 +46,48 @@ msgid "FR"
 msgstr ""
 
 #: public/fr/index.html%2Bhtml.body.ul.li:33-13
-msgid "Consultant en stratégie digitale et ingénierie logicielle"
-msgstr "Digital strategy consultant and software architect"
+msgid "Dirigeant et expert en digitalisation et ingénierie logicielle"
+msgstr "Executive and expert in digitalization and software engineering"
 
 #: public/fr/index.html%2Bhtml.body.ul.li:34-13
-msgid "Chief Technology Officer"
-msgstr "Chief Technology Officer"
+msgid "VP Innovation à Husqvarna Group"
+msgstr "VP Innovation at Husqvarna Group"
 
 #: public/fr/index.html%2Bhtml.body.ul.li:35-13
-msgid ""
-"Fondateur de <a href=\"https://www.vocationcity.com\" target=\"_blank"
-"\">Vocation City</a> (logiciel de recrutement et gestion des candidatures)"
-msgstr ""
-"Founder of <a href=\"https://www.vocationcity.com\" target=\"_blank"
-"\">Vocation City</a> (recruitment and application tracking software)"
+msgid "Précédemment Head of Digitalization à Northvolt Systems"
+msgstr "Previously Head of Digitalization at Northvolt Systems"
 
 #: public/fr/index.html%2Bhtml.body.ul.li:36-13
-msgid ""
-"Président de <a href=\"https://www.facebook.com/CapitaineClimat\" target="
-"\"_blank\">Capitaine Climat</a> (association de défense du climat)"
-msgstr ""
-"President of <a href=\"https://www.facebook.com/CapitaineClimat\" target="
-"\"_blank\">Captain Climate</a> (non-profit fighting climate change)"
+msgid "Basé à Stockholm, Suède"
+msgstr "Based in Stockholm, Sweden"
 
 #: public/fr/index.html%2Bhtml.body.ul.li:37-13
-msgid ""
-"Administrateur de <a href=\"http://www.trema-asso.fr\" target=\"_blank"
-"\">Tremä</a> (association d'aide aux personnes en Charente-Maritime)"
-msgstr ""
-"Administrator of <a href=\"http://www.trema-asso.fr\" target=\"_blank"
-"\">Tremä</a> (non-profit assisting people in Charente-Maritime)"
+msgid "Originaire de La Rochelle, France"
+msgstr "Originally from La Rochelle, France"
 
 #: public/fr/index.html%2Bhtml.body.ul.li:38-13
 msgid ""
-"Développeur Go, Python, JavaScript, PostgreSQL, MySQL, SQLite, numpy, Linux, "
-"Docker, Ansible"
+"#golang #rustlang #python #security #networking #opensource #IoT #cloud "
+"#databases #PostgreSQL #SQLite #AI #MachineLearning #robotics #batteries "
+"#climate #manufacturing"
 msgstr ""
-"Developer Go, Python, JavaScript, PostgreSQL, MySQL, SQLite, numpy, Linux, "
-"Docker, Ansible"
 
-#: public/fr/index.html%2Bhtml.body.ul.li:39-13
-msgid "Paris & La Rochelle"
+#: public/fr/index.html%2Bhtml.body.div.a[title]:43-13
+msgid "Envoyer un e-mail"
+msgstr "Send an email"
+
+#: public/fr/index.html%2Bhtml.body.div.a[title]:46-13
+msgid "Facebook"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.div.a[title]:49-13
+msgid "Twitter"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.div.a[title]:52-13
+msgid "LinkedIn"
+msgstr ""
+
+#: public/fr/index.html%2Bhtml.body.div.a[title]:55-13
+msgid "GitHub"
 msgstr ""
