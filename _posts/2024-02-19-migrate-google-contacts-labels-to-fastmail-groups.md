@@ -12,7 +12,7 @@ I eventually managed to migrate my contacts and keep the labels/groups by follow
 
 1. In Google Contacts, rename all the labels by prefixing them with a unique string, and replacing spaces with hyphens: for example "Best friends" becomes "ZZZ-Best-friends".
 2. In Google Contacts, export all contacts as a vCard file.
-3. In a text editor, replace all instances of `CATEGORIES:` with `X-FM-ONLINE-OTHER;LABEL=Categories:`. The reason for renaming is that the property `CATEGORIES` is ignored by FastMail, but `X-FM-ONLINE-OTHER` is not. This will allow us import and use the categories in FastMail.
+3. In a text editor, replace all instances of `CATEGORIES:` with `X-FM-ONLINE-OTHER;LABEL=Categories:`. The reason for renaming is that the property `CATEGORIES` is ignored by FastMail, but `X-FM-ONLINE-OTHER` is not. This will allow us to import and use the categories in FastMail.
 4. In the FastMail web interface, import the modified vCard file.
 5. In the FastMail web interface, for each label/group:
     1. Search for the label/group's name followed by a comma: for example `XXX-Best-friends,`. Adding a comma at the end works because the last category exported by Google Contacts is always `myContacts`.
