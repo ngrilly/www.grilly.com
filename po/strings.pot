@@ -3,90 +3,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-29 19:28+0200\n"
+"POT-Creation-Date: 2024-02-27 13:20+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.7.4\n"
+"X-Generator: Translate Toolkit 3.10.1\n"
 
-#: public/fr/index.html%2Bhtml[lang]:2-1
-msgid "fr"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.head.title:6-9
-msgid ""
-"Nicolas Grilly • Dirigeant et expert en digitalisation et ingénierie "
-"logicielle"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.head.meta[content]:7-9
-msgid ""
-"Nicolas Grilly est VP Innovation à Husqvarna Group, et précédemment Head of "
-"Digitalizaton à Northvolt Systems."
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.header.div:23-13
-msgid "Nicolas Grilly"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.header.ul.li:25-17
-msgid "EN"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.header.ul.li:26-17
-msgid "FR"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.ul.li:33-13
+#: content/_index.fr.md%2Bul.li:7-5
 msgid "Dirigeant et expert en digitalisation et ingénierie logicielle"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:34-13
+#: content/_index.fr.md%2Bul.li:8-5
 msgid "VP Innovation à Husqvarna Group"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:35-13
+#: content/_index.fr.md%2Bul.li:9-5
 msgid "Précédemment Head of Digitalization à Northvolt Systems"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:36-13
+#: content/_index.fr.md%2Bul.li:10-5
 msgid "Basé à Stockholm, Suède"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:37-13
+#: content/_index.fr.md%2Bul.li:11-5
 msgid "Originaire de La Rochelle, France"
 msgstr ""
 
-#: public/fr/index.html%2Bhtml.body.ul.li:38-13
+#: content/_index.fr.md%2Bul.li:12-5
 msgid ""
 "#golang #rustlang #python #security #networking #opensource #IoT #cloud #"
 "databases #PostgreSQL #SQLite #AI #MachineLearning #robotics #batteries #"
 "climate #manufacturing"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.div.a[title]:43-13
-msgid "Envoyer un e-mail"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.div.a[title]:46-13
-msgid "Facebook"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.div.a[title]:49-13
-msgid "Twitter"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.div.a[title]:52-13
-msgid "Mastodon"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.div.a[title]:55-13
-msgid "LinkedIn"
-msgstr ""
-
-#: public/fr/index.html%2Bhtml.body.div.a[title]:58-13
-msgid "GitHub"
 msgstr ""

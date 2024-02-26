@@ -1,19 +1,19 @@
 /* Normalize */
 
 body {
-	margin: 0;
+    margin: 0;
 }
 
 /* Defaults */
 
 body {
-	box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 *,
 *::before,
 *::after {
-	box-sizing: inherit;
+    box-sizing: inherit;
 }
 
 a {
@@ -24,6 +24,10 @@ a {
 
 .text-white {
     color: #fff;
+}
+
+.text-center {
+    text-align: center;
 }
 
 .my-4 {
@@ -68,9 +72,7 @@ body {
     margin: auto;
     padding-left: 2rem;
     padding-right: 2rem;
-    width: 70rem;
-    max-width: 95%;
-    text-align: center;
+    max-width: 60rem;
 }
 
 .logo {
@@ -83,41 +85,41 @@ body {
     max-width: 10rem;
 }
 
-.languages {
+.nav {
     margin: 0;
     margin-left: auto;
 }
 
-.languages li {
+.nav li {
     display: inline;
 }
 
-.languages li + li::before {
+.nav li+li::before {
     content: " | ";
 }
 
-.languages a {
-    text-decoration: none;    
+.nav a {
+    text-decoration: none;
 }
 
-.languages a:hover {
+.nav a:hover {
     text-decoration: underline;
 }
 
 .share-button {
-	width: 2.5rem;
-	height: 2.5rem;
-	border-radius: 10%;
-	display: inline-flex;
-	justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 10%;
+    display: inline-flex;
+    justify-content: center;
     align-items: center;
     margin: 0.5rem;
 }
 
 .share-button svg {
-	height: 50%;
+    height: 50%;
 }
 
 .share-button:hover {
-    box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
 }

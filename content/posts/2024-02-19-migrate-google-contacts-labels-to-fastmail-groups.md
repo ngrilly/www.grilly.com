@@ -1,4 +1,6 @@
-# Migrate Google Contacts labels to FastMail groups
++++
+title = "Migrate Google Contacts labels to FastMail groups"
++++ 
 
 Migrating my contacts from Google Workspace to FastMail, while preserving the contact labels/groups, has been surprisingly difficult.
 

@@ -1,10 +1,10 @@
-all: po/en.po public/en/index.html
+all: po/en.po content/_index.md
 
 po/en.po: po/strings.pot
 	msgmerge --update --previous --backup=off $@ $<
 
-po/strings.pot: public/fr/index.html
+po/strings.pot: content/_index.fr.md
 	html2po --pot --input=$< --output=$@
 
-public/en/index.html: public/fr/index.html po/en.po
-	po2html --template=public/fr/index.html --input=po/en.po --output=$@
+content/_index.md: content/_index.fr.md po/en.po
+	po2html --template=content/_index.fr.md --input=po/en.po --output=$@

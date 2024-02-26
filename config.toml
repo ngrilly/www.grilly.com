@@ -1,0 +1,10 @@
+base_url = "https://www.grilly.com/"
+title = "Nicolas Grilly"
+description = "Technology executive and software engineer passionate about building innovative products and international teams"
+
+[markdown]
+smart_punctuation = true
+
+[languages.fr]
+title = "Nicolas Grilly"
+description = "Dirigeant et ingénieur logiciel passionné par la technologie et le développement de produits innovants et d'équipes internationales"
