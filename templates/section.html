@@ -1,4 +1,7 @@
 {% extends "base.html" %}
+{% block head %}
+    <title>{{ section.title }} | {{ config.title }}</title>
+{% endblock %}
 {% block content %}
     <h1>{{ section.title }}</h1>
     <ul>
@@ -6,4 +9,4 @@
         <li><a href="{{ post.permalink | safe }}">{{ post.title }}</a>
     {% endfor %}
     </ul>
-{% endblock content %}
+{% endblock %}

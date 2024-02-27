@@ -1,5 +1,15 @@
-{% macro hreflang(translations) %}
-    {%- if translations | length > 1 %}
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- block head %}{% endblock -%}
+    {%- if page %}
+        {%- set translations = page.translations -%}
+    {% elif section %}
+        {%- set translations = section.translations -%}
+    {% endif -%}
+    {%- if translations and translations | length > 1 %}
         {%- for translation in translations %}
             <link rel="alternate" hreflang="{{ translation.lang }}" href="{{ translation.permalink | safe }}">
             {%- if translation.lang == config.default_language %}
@@ -7,20 +17,6 @@
             {% endif -%}
         {% endfor -%}
     {% endif -%}
-{% endmacro -%}
-<!doctype html>
-<html lang="{{ lang }}">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- if page %}
-        <title>{{ page.title }} | {{ config.title }}</title>
-        {{- self::hreflang(translations=page.translations) -}}
-    {% else %}
-        <title>{{ config.title }}</title>
-        <meta name="description" content="{{ config.description }}">
-        {{- self::hreflang(translations=section.translations) -}}
-    {% endif %}
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,300i,700" rel="stylesheet">
     <link rel="stylesheet" href="/main.css">
 </head>
@@ -33,9 +29,7 @@
         </ul>
     </header>
     <main class="my-16">
-        {% block content %}
-            {{ section.content | safe }}
-        {% endblock content %}
+        {%- block content %}{% endblock -%}
     </main>
     <div class="text-white text-center my-16">
         <a href="mailto:nicolas@grilly.com" class="share-button" target="_blank" style="background: #727272"
