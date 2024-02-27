@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-27 13:20+0200\n"
+"POT-Creation-Date: 2024-02-27 13:56+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,27 +12,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.10.1\n"
 
-#: content/_index.fr.md%2Bul.li:7-5
-msgid "Dirigeant et expert en digitalisation et ingénierie logicielle"
+#: content/_index.md%2Bul.li:7-5
+msgid "Executive and expert in digitalization and software engineering"
 msgstr ""
 
-#: content/_index.fr.md%2Bul.li:8-5
-msgid "VP Innovation à Husqvarna Group"
+#: content/_index.md%2Bul.li:8-5
+msgid "VP Innovation at Husqvarna Group"
 msgstr ""
 
-#: content/_index.fr.md%2Bul.li:9-5
-msgid "Précédemment Head of Digitalization à Northvolt Systems"
+#: content/_index.md%2Bul.li:9-5
+msgid "Previously Head of Digitalization at Northvolt Systems"
 msgstr ""
 
-#: content/_index.fr.md%2Bul.li:10-5
-msgid "Basé à Stockholm, Suède"
+#: content/_index.md%2Bul.li:10-5
+msgid "Based in Stockholm, Sweden"
 msgstr ""
 
-#: content/_index.fr.md%2Bul.li:11-5
-msgid "Originaire de La Rochelle, France"
+#: content/_index.md%2Bul.li:11-5
+msgid "Originally from La Rochelle, France"
 msgstr ""
 
-#: content/_index.fr.md%2Bul.li:12-5
+#: content/_index.md%2Bul.li:12-5
 msgid ""
 "#golang #rustlang #python #security #networking #opensource #IoT #cloud #"
 "databases #PostgreSQL #SQLite #AI #MachineLearning #robotics #batteries #"

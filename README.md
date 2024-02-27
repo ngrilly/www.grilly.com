@@ -26,7 +26,6 @@ Update HTML pages with the new translations:
 
 # Todo
 
-- gettext: use English as source language instead of French
 - List of posts: add date
 - Page template: improve spacing before/after date
 - Add link to Threads
