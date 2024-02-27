@@ -1,3 +1,4 @@
+# Redirects based on Language are currently not supported by Cloudflare Pages
 /                           /fr/                    302     Language=fr
 /en                         /                       301
 /en/                        /                       301
