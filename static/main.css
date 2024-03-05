@@ -66,7 +66,8 @@ a {
 
 body {
     font-family: "Roboto Slab", system-ui, sans-serif;
-    font-size: 1.125rem;
+    /* Progressively increase font size from 16px to 18px when page size > 800px */
+    font-size: clamp(1rem, 0.5rem + 1vw, 1.125rem);
     font-weight: 300;
     line-height: 1.5;
     background: #f9f9f9;
@@ -78,7 +79,7 @@ body {
 
 .logo {
     font-weight: 700;
-    font-size: 1.25rem;
+    font-size: 1.1em;
 }
 
 .photo {
@@ -131,7 +132,7 @@ body {
 /* TODO: use article instead of main? */
 main h1 {
     font-weight: 900;
-    font-size: 2.5rem;
+    font-size: 2.2em;
     line-height: 1.2;
     letter-spacing: -0.02em;
 }
