@@ -99,6 +99,7 @@ body {
     content: " | ";
 }
 
+.logo a,
 .nav a {
     text-decoration: none;
 }
