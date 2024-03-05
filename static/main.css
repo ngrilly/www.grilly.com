@@ -65,7 +65,7 @@ a {
 /* www.grilly.com */
 
 body {
-    font-family: "Roboto Slab", sans-serif;
+    font-family: "Roboto Slab", system-ui, sans-serif;
     font-size: 1.125rem;
     font-weight: 300;
     line-height: 1.5;
