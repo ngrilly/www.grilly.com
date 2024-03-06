@@ -1,4 +1,5 @@
 +++
+title = "Nicolas Grilly"
 +++
 <div class="text-center my-16"> 
     <img class="photo rounded-full" src="/photo.jpg">

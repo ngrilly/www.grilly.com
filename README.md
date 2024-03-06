@@ -29,7 +29,6 @@ Update HTML pages with the new translations:
 - List of posts: add date
 - Add link to Threads
 - Replace email icon with email address in plain text?
-- Add Facebook OpenGraph / Twitter card tags
 - Migrate ngrilly.substack.com here?
 - Should we fingerprint the stylesheet URL and set `cache-control: public, max-age=31556926` instead of `cache-control: public, max-age=0, must-revalidate` (Cloud Pages and Netlify's default)?
     - Pro: No need to revalidate the stylesheet on every page load.
