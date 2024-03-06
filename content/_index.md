@@ -1,14 +1,17 @@
 +++
 title = "Nicolas Grilly"
 +++
-<div class="text-center my-16"> 
+
+<div class="text-center my-8"> 
     <img class="photo rounded-full" src="/photo.jpg">
 </div>
-<ul class="list-reset text-center my-16">
-    <li class="my-4">Executive and expert in digitalization and software engineering</li>
-    <li class="my-4">VP Innovation at Husqvarna Group</li>
-    <li class="my-4">Previously Head of Digitalization at Northvolt Systems</li>
-    <li class="my-4">Based in Stockholm, Sweden</li>
-    <li class="my-4">Originally from La Rochelle, France</li>
-    <li class="my-4">#golang #rustlang #python #security #networking #opensource #IoT #cloud #databases #PostgreSQL #SQLite #AI #MachineLearning #robotics #batteries #climate #manufacturing</li>
-</ul>
+
+### Hey there 👋 I'm Nicolas.
+
+I'm an executive and a software engineer, with a passion for technology and innovation. My background is mainly in digitalization, software engineering, IoT, machine learning, corporate innovation, digital marketing, batteries, electrification, and smart manufacturing. 
+
+Currently VP Innovation at Husqvarna Group, and previously Head of Digitalization at Northvolt Systems, I've been leading teams and building products in startups, scale-ups, and large companies, in an international environment.
+
+I live in Stockholm 🇸🇪, and I'm originally from La Rochelle 🇫🇷.
+
+My favorite technical topics are: #programming #golang #ziglang #rustlang #python #opensource #cloud #networking #IoT #cybersecurity #databases #PostgreSQL #SQLite #AI #MachineLearning #robotics #batteries #climate #manufacturing.
