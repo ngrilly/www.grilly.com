@@ -26,8 +26,17 @@ a {
     color: #fff;
 }
 
+.text-gray {
+    color: hsl(0 0% 50%);
+}
+
 .text-center {
     text-align: center;
+}
+
+.my-2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .my-4 {
@@ -38,6 +47,11 @@ a {
 .my-8 {
     margin-top: 2rem;
     margin-bottom: 2rem;
+}
+
+.my-12 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 .my-16 {
@@ -129,12 +143,12 @@ body {
 
 /* Article */
 
-/* TODO: use article instead of main? */
 main h1 {
     font-weight: 900;
     font-size: 2.2em;
     line-height: 1.2;
     letter-spacing: -0.02em;
+    margin: 0;
 }
 
 main code {

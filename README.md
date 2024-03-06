@@ -27,7 +27,6 @@ Update HTML pages with the new translations:
 # Todo
 
 - List of posts: add date
-- Page template: improve spacing before/after date
 - Add link to Threads
 - Replace email icon with email address in plain text?
 - Add Facebook OpenGraph / Twitter card tags
