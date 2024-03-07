@@ -10,16 +10,16 @@
         {%- set page_or_section = section -%}
     {% endif -%}
     {%- if page_or_section %}
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="@ngrilly" />
-        <meta name="twitter:creator" content="@ngrilly" />
-        <meta property="og:type" content="{% if page %}article{% else %}website{% endif %}" />
-        <meta property="og:site_name" content="{{ config.title }}" />
-        <meta property="og:url" content="{{ page_or_section.permalink | safe }}" />
-        <meta property="og:title" content="{{ page_or_section.title }}" />
-        <meta property="og:image" content="{{ get_url(path="og_image.jpeg", cachebust=true) }}" />
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@ngrilly">
+        <meta name="twitter:creator" content="@ngrilly">
+        <meta property="og:type" content="{% if page %}article{% else %}website{% endif %}">
+        <meta property="og:site_name" content="{{ config.title }}">
+        <meta property="og:url" content="{{ page_or_section.permalink | safe }}">
+        <meta property="og:title" content="{{ page_or_section.title }}">
+        <meta property="og:image" content="{{ get_url(path="og_image.jpeg", cachebust=true) }}">
         {%- if page_or_section.description %}
-            <meta property="og:description" content="{{ page_or_section.description }}" />
+            <meta property="og:description" content="{{ page_or_section.description }}">
         {% endif -%}
         {%- if page_or_section.translations and page_or_section.translations | length > 1 %}
             {%- for translation in page_or_section.translations %}
