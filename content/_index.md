@@ -1,6 +1,6 @@
-+++
-title = "Nicolas Grilly"
-+++
+---
+title: "Nicolas Grilly"
+---
 
 <div class="text-center my-8"> 
     <img class="photo rounded-full" src="/photo.jpg">

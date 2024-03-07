@@ -1,44 +1,63 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-27 13:56+0200\n"
-"PO-Revision-Date: 2024-02-27 13:53+0100\n"
+"POT-Creation-Date: 2024-03-07 10:10+0200\n"
+"PO-Revision-Date: 2024-03-07 11:46+0100\n"
 "Last-Translator: Nicolas Grilly <nicolas@grilly.com>\n"
 "Language-Team: French <traduc@traduc.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.10.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.2\n"
 
-#: content/_index.md%2Bul.li:7-5
-msgid "Executive and expert in digitalization and software engineering"
-msgstr "Dirigeant et expert en digitalisation et ingénierie logicielle"
-
-#: content/_index.md%2Bul.li:8-5
-msgid "VP Innovation at Husqvarna Group"
-msgstr "VP Innovation à Husqvarna Group"
-
-#: content/_index.md%2Bul.li:9-5
-msgid "Previously Head of Digitalization at Northvolt Systems"
-msgstr "Précédemment Head of Digitalization à Northvolt Systems"
-
-#: content/_index.md%2Bul.li:10-5
-msgid "Based in Stockholm, Sweden"
-msgstr "Basé à Stockholm, Suède"
-
-#: content/_index.md%2Bul.li:11-5
-msgid "Originally from La Rochelle, France"
-msgstr "Originaire de La Rochelle, France"
-
-#: content/_index.md%2Bul.li:12-5
-msgid ""
-"#golang #rustlang #python #security #networking #opensource #IoT #cloud "
-"#databases #PostgreSQL #SQLite #AI #MachineLearning #robotics #batteries "
-"#climate #manufacturing"
+#: content/_index.md%2Bheading
+msgid "title: \"Nicolas Grilly\""
 msgstr ""
-"#golang #rustlang #python #security #networking #opensource #IoT #cloud "
-"#databases #PostgreSQL #SQLite #AI #MachineLearning #robotics #batteries "
-"#climate #manufacturing"
+
+#: content/_index.md%2Bheading
+msgid "Hey there 👋 I'm Nicolas."
+msgstr "Bonjour 👋 Je suis Nicolas."
+
+#: content/_index.md%2Bp
+msgid ""
+"I'm an executive and a software engineer, with a passion for technology and "
+"innovation. My background is mainly in digitalization, software engineering, "
+"IoT, machine learning, corporate innovation, digital marketing, batteries, "
+"electrification, and smart manufacturing."
+msgstr ""
+"Je suis cadre dirigeant et ingénieur logiciel, avec une passion pour la "
+"technologie et l'innovation. Mon parcours est principalement axé sur le "
+"digital, le génie logiciel, l'IoT, le machine learning, l’innovation "
+"corporate, le marketing digital, les batteries, l'électrification et le "
+"smart manufacturing."
+
+#: content/_index.md%2Bp
+msgid ""
+"Currently VP Innovation at Husqvarna Group, and previously Head of "
+"Digitalization at Northvolt Systems, I've been leading teams and building "
+"products in startups, scale-ups, and large companies, in an international "
+"environment."
+msgstr ""
+"Actuellement VP Innovation chez Husqvarna Group, et précédemment Head of "
+"Digitalization chez Northvolt Systems, j'ai dirigé des équipes et créé des "
+"produits dans des startups, des scale-ups et des grandes entreprises, dans "
+"un environnement international."
+
+#: content/_index.md%2Bp
+msgid "I live in Stockholm 🇸🇪, and I'm originally from La Rochelle 🇫🇷."
+msgstr "Je vis à Stockholm 🇸🇪, et suis originaire de La Rochelle 🇫🇷."
+
+#: content/_index.md%2Bp
+msgid ""
+"My favorite technical topics are: #programming #golang #ziglang #rustlang "
+"#python #opensource #cloud #networking #IoT #cybersecurity #databases "
+"#PostgreSQL #SQLite #AI #MachineLearning #robotics #batteries #climate "
+"#manufacturing."
+msgstr ""
+"Mes sujets techniques favoris sont : #programmation #golang #ziglang "
+"#rustlang #python #opensource #cloud #réseau #IoT #cybersécurité "
+"#BasesDeDonnées #PostgreSQL #SQLite #AI #MachineLearning #robotique "
+"#batteries #climat #manufacturing."

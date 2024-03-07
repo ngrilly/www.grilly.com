@@ -16,7 +16,7 @@ Extract translatable strings and update .po files:
 
 Launch poedit:
 
-- Open `po/en.po`
+- Open `po/fr.po`
 - Translate
 - Save and quit
 
