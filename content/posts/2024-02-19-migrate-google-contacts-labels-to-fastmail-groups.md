@@ -1,8 +1,8 @@
 +++
-title = "Migrate Google Contacts labels to FastMail groups"
+title = "Migrating my contacts from Gmail and Google Contacts to FastMail"
 +++ 
 
-Migrating my contacts from Google Workspace to FastMail, while preserving the contact labels/groups, has been surprisingly difficult.
+Migrating my contacts from Gmail and Google Contacts to FastMail, while preserving the contact labels/groups, has been surprisingly difficult.
 
 At first, I tried the automated import tool offered by FastMail. It is designed to retrieve contacts directly from Google, using CardDAV, and import them into FastMail, without any manual export/import. But it didn't work for me. Out of a total of 2 239 contacts, 455 couldn't be imported. The error message looked like this: `Could not fetch contact with UID default/3b6d14c50b666040. Skipping.`. The root cause appears to be the UID starting with `default/`, as the other UIDs were imported correctly.
 
