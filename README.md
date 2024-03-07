@@ -26,7 +26,6 @@ Update HTML pages with the new translations:
 
 # Todo
 
-- List of posts: add date
 - Add link to Threads
 - Replace email icon with email address in plain text?
 - Migrate ngrilly.substack.com here?

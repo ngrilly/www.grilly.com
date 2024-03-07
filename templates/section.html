@@ -4,9 +4,11 @@
 {% endblock %}
 {% block content %}
     <h1>{{ section.title }}</h1>
-    <ul>
+    <ul class="list-reset">
     {% for post in section.pages %}
-        <li><a href="{{ post.permalink | safe }}">{{ post.title }}</a>
+        <li class="my-4">
+            <a href="{{ post.permalink | safe }}">{{ post.title }}</a>
+            <div class="text-gray">{{ post.date | date(format="%-e %B %Y") }}</div>
     {% endfor %}
     </ul>
 {% endblock %}
