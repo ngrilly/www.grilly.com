@@ -61,6 +61,7 @@ a {
 
 .list-reset {
     list-style: none;
+    margin: 0;
     padding: 0;
 }
 
@@ -74,6 +75,26 @@ a {
 
 .items-center {
     align-items: center;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.gap-x-6 {
+    column-gap: 1.5rem;
+}
+
+.\*\:underline-on-hover a {
+    text-decoration: none;
+}
+
+.\*\:underline-on-hover a:hover {
+    text-decoration: underline;
 }
 
 /* www.grilly.com */
@@ -96,31 +117,13 @@ body {
     font-size: 1.1em;
 }
 
-.photo {
-    width: 50%;
-    max-width: 10rem;
-}
-
-.nav {
-    margin: 0;
-    margin-left: auto;
-}
-
-.nav li {
-    display: inline;
-}
-
-.nav li+li::before {
-    content: " | ";
-}
-
-.logo a,
-.nav a {
+.logo a {
     text-decoration: none;
 }
 
-.nav a:hover {
-    text-decoration: underline;
+.photo {
+    width: 50%;
+    max-width: 10rem;
 }
 
 .share-button {
