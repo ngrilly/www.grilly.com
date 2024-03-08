@@ -99,17 +99,20 @@ a {
 
 /* www.grilly.com */
 
+html {
+    /* Progressively increase font size from 16px to 18px when 800 px < page size < 1000px */
+    font-size: clamp(1rem, 0.5rem + 1vw, 1.125rem);
+}
+
 body {
     font-family: "Roboto Slab", system-ui, sans-serif;
-    /* Progressively increase font size from 16px to 18px when page size > 800px */
-    font-size: clamp(1rem, 0.5rem + 1vw, 1.125rem);
     font-weight: 300;
-    line-height: 1.5;
+    line-height: 1.5rem;
     background: #f9f9f9;
     margin: auto;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
-    max-width: 50rem;
+    max-width: 45rem;
 }
 
 .logo {
@@ -123,12 +126,12 @@ body {
 
 .photo {
     width: 50%;
-    max-width: 10rem;
+    max-width: 9rem;
 }
 
 .share-button {
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 2.25rem;
+    height: 2.25rem;
     border-radius: 10%;
     display: inline-flex;
     justify-content: center;
@@ -148,8 +151,8 @@ body {
 
 main h1 {
     font-weight: 900;
-    font-size: 2.2em;
-    line-height: 1.2;
+    font-size: 2.2rem;
+    line-height: 2.5rem;
     letter-spacing: -0.02em;
     margin: 0;
 }
@@ -157,9 +160,9 @@ main h1 {
 main code {
     background: rgba(0, 0, 0, 0.05);
     padding: 0.1em 0.2em;
-    font-size: 85%;
+    font-size: 0.85em;
 }
 
 main li+li {
-    margin-top: 0.25em;
+    margin-top: 0.25rem;
 }
