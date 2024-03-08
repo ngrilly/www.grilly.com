@@ -26,9 +26,12 @@ Update HTML pages with the new translations:
 
 # Todo
 
+- Keep utility-first CSS classes?
+- Add a favicon?
 - Add link to Threads
 - Replace email icon with email address in plain text?
 - Migrate ngrilly.substack.com here?
+- Let visitors provide feedback — like and/or comment? Using email, social networks, HN, giscus or something else?
 - Should we fingerprint the stylesheet URL and set `cache-control: public, max-age=31556926` instead of `cache-control: public, max-age=0, must-revalidate` (Cloud Pages and Netlify's default)?
     - Pro: No need to revalidate the stylesheet on every page load.
     - Con: All HTML files are invalidated on every update of the stylesheet.
