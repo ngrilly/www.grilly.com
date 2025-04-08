@@ -8,9 +8,9 @@ title: "Nicolas Grilly"
 
 ### Hey there 👋 I'm Nicolas.
 
-I'm an executive and a software engineer, with a passion for technology and innovation. My background is mainly in digitalization, software engineering, IoT, machine learning, corporate innovation, digital marketing, batteries, electrification, and smart manufacturing. 
+Executive and software engineer with a passion for technology and innovation. My background is mainly in digitalization, software engineering, IoT, machine learning, corporate innovation, digital marketing, batteries, electrification, and smart manufacturing. 
 
-Currently VP Innovation at Husqvarna Group, and previously Head of Digitalization at Northvolt Systems, I've been leading teams and building products in startups, scale-ups, and large companies, in an international environment.
+Currently CTO at Zacco, and formerly VP Innovation at Husqvarna Group and Head of Digitalization at Northvolt Systems. I've been leading teams and building products in startups, scale-ups, and large companies, in an international environment.
 
 I live in Stockholm 🇸🇪, and I'm originally from La Rochelle 🇫🇷.
 
