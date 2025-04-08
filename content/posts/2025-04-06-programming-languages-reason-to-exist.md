@@ -32,6 +32,8 @@ Here is the list:
     - **Lua** → Embeddable scripting language (PUC-Rio)
     - **R** → Statistics (University of Auckland)
 
+*Note: This list should ideally include other great languages such as OCaml, F#, Haskell, Scala, Lisp, Clojure, Julia, D, Nim, Erlang, Elixir, Gleam, Fortran, Ada, Perl, and more. But I ran out of time — so I'll leave that as an exercise for the reader.* 🙂
+
 ## Takeaway
 
 These languages all have something in common: a clear and compelling reason to exist. They weren't invented in a vacuum. Each one solves a real problem, serves a distinct niche, or enables something that wasn't practical before.
