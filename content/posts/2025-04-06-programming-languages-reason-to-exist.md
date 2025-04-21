@@ -39,3 +39,10 @@ Here is the list:
 These languages all have something in common: a clear and compelling reason to exist. They weren't invented in a vacuum. Each one solves a real problem, serves a distinct niche, or enables something that wasn't practical before.
 
 So the next time a new language shows up on your radar, ask yourself: what's its killer app?
+
+<center>· · ·</center>
+
+*Further reading:*
+
+- *[Discussion on Lobsters](https://lobste.rs/s/y3og5m/every_programming_language_needs_its)*
+- *[Every programming language has its 'killer' domain](https://huijzer.xyz/posts/killer-domain/), a follow-up post by Rik Huijzer*
