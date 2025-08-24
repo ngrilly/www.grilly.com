@@ -8,7 +8,10 @@
     {% for post in section.pages %}
         <li class="my-4">
             <a href="{{ post.permalink | safe }}">{{ post.title }}</a>
-            <div class="text-gray">{{ post.date | date(format="%-e %B %Y") }}</div>
+            <div class="text-gray">
+                {{- post.date | date(format="%-e %B %Y") -}}
+                {%- if post.updated %} · Updated on {{ post.updated | date(format="%-e %B %Y") }}{% endif -%}
+            </div>
     {% endfor %}
     </ul>
 {% endblock %}
