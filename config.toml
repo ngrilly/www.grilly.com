@@ -4,6 +4,7 @@ description = "Technology executive and software engineer passionate about build
 
 [markdown]
 smart_punctuation = true
+bottom_footnotes = true
 
 [languages.fr]
 title = "Nicolas Grilly"

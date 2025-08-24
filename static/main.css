@@ -192,3 +192,8 @@ main code {
 main li {
     margin-top: 0.25rem;
 }
+
+.footnotes-list {
+    font-size: 0.9rem;
+    padding-left: 1rem;
+}
