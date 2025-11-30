@@ -2,7 +2,7 @@
 title: Why AI won't cause mass unemployment without a breakthrough on AGI
 ---
 
-I recently [watched](https://youtu.be/EK7uWh3TP3o) Geoffrey Hinton discuss the threat of AI to jobs at George Town University on 18 November 2025.
+Geoffrey Hinton recently discussed the threat of AI to jobs at George Town University on 18 November 2025 (source: [video](https://youtu.be/EK7uWh3TP3o)).
 
 He believes the AI revolution will not follow the historical pattern of previous industrial revolutions. His core concern: the people who lose their jobs won't have new jobs to turn to because AI will eventually be able to do any job a human can.
 
